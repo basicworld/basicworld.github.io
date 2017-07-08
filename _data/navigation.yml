@@ -9,13 +9,13 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "技术"
-    url: /categories/tech/
+    url: /categories/#tech
   - title: "工具"
-    url: /categories/tool/
+    url: /categories/#tool
   - title: "读书"
-    url: /categories/book/
+    url: /categories/#book
   - title: "生活"
-    url: /categories/life/
+    url: /categories/#life
 
   # - title: "Github"
   #   url: https://github.com/basicworld/basicworld.github.io
