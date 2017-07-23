@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "王立飞的个人网站"
+title                    : "王立飞的博客"
 title_separator          : "|"
 name                     : "admin"
 description              : "王立飞，某校研究生"
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/basicworld"
+  github           : "basicworld"
   gitlab           :
   google_plus      :
   keybase          :

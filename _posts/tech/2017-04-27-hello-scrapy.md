@@ -5,7 +5,7 @@ category: tech
 tags: tech
 description: Scrapy 入门
 ---
-
+scrapy的远程部署、服务器配置、远程操作命令
 ## 远程部署
 
 ### 服务器端配置

@@ -6,7 +6,7 @@ category: tech
 tags:
   - 运维
 ---
-
+重启wordpress站点的方法：
 - 切换到`wordpress`账号
 - 启动`nginx`
 - 启动`php-fpm`

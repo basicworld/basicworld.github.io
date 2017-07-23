@@ -6,6 +6,7 @@ category: tool
 tags: tool
 
 ---
+Mounty: A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode.
 
 ![mounty](http://enjoygineering.com/mounty/img/mounty-blue.png)
 

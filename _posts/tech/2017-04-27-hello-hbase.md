@@ -5,7 +5,7 @@ category: tech
 tags: hbase
 description: Hbase 入门
 ---
-
+操作hbase的常用命令
 HBase是一个分布式的、面向列的开源数据库
 
 ## 常用命令

@@ -6,7 +6,7 @@ category: tech
 tags:
   - 运维
 ---
-
+重启微信公众号服务器的方法：
 - 切换到`wechat`账户
 - 启动`nginx`
 - 启动`virtualenv`

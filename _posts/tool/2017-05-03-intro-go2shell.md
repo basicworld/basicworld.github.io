@@ -8,7 +8,7 @@ tags:
     - 免费
 
 ---
-
+Go2shell：Mac上免费好用的Finder扩展工具，可以方便的在当前窗口打开终端
 <!-- add content here -->
 
 ![logo](http://zipzapmac.com/system/datas/346/original/banner-go2shell.jpg)

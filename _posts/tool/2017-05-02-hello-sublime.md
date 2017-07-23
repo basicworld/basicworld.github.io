@@ -5,9 +5,7 @@ category: tool
 tags: tech
 description: Sublime3 配置教程
 ---
-
-用于sublime3。
-sublime3相对于sublime2有很多改进，目前发现的：颜色好看了、自定义设置与系统设置分离、插件包配置简单了
+sublime3相对于sublime2有很多改进，目前发现的：颜色好看了、自定义设置与系统设置分离、插件包配置简单了。这里介绍一些python开发必备的插件。
 
 ## lincense
 

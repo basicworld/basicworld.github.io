@@ -7,7 +7,7 @@ tags: tech
 
 description: 不定时更新精品python库、文章
 ---
-
+一些好用的python工具、一些优秀的python项目
 <!-- add content here -->
 [SimpleHTTPServer-自带的给力HTTP服务器](https://docs.python.org/2/library/simplehttpserver.html)
 

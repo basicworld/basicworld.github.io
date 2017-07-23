@@ -7,8 +7,6 @@ tags: tech
 
 description: 这篇文章呢，就是给那些找不到Python项目开发教程的人，以及不知道Python可以开发什么的人的，希望看完后，可以去实际动手操作学习，
 ---
-
-<!-- add content here -->
 转自[给缺少Python项目实战经验的人](http://www.jianshu.com/p/baa5a3f75392), 本文纯属抄袭
 
 我们在学习过程中最容易犯的一个错误就是：看的多动手的少，特别是对于一些项目的开发学习就更少了！

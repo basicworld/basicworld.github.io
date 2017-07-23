@@ -7,14 +7,7 @@ tags: tech
 
 description: 技术进阶
 ---
-
-<!-- add content here -->
-
-想让代码更加pythonic，最好的方法就是阅读源码，边阅读边实践
-
-推荐知乎[Python之美](https://zhuanlan.zhihu.com/p/22275595?refer=python-cn)
-
-这里先读一读pip-pop项目源码
+想让代码更加pythonic，最好的方法就是阅读源码，边阅读边实践。推荐知乎[Python之美](https://zhuanlan.zhihu.com/p/22275595?refer=python-cn)。这里先读一读pip-pop项目源码
 
 这是一个很简单的单文件项目 [我是源码pip-pop](https://github.com/kennethreitz/pip-pop)，用来对比、处理requirements.txt文件--python依赖包文件
 
