@@ -321,8 +321,8 @@ zh: &DEFAULT_ZH
   menu_label                 : "切换菜单"
   toc_label                  : "在本页上"
   ext_link_label             : "直接链接"
-  less_than                  : "少于"
-  minute_read                : "分钟 阅读"
+  less_than                  : "阅读时间: 少于"
+  minute_read                : "分钟"
   share_on_label             : "分享"
   meta_label                 :
   tags_label                 : "标签:"
@@ -708,7 +708,7 @@ sv-SE:
   <<: *DEFAULT_SV
 sv-FI:
   <<: *DEFAULT_SV
- 
+
 # Dutch
 # -----------------
 nl: &DEFAULT_NL
