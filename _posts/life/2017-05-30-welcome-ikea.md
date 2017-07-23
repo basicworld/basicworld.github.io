@@ -6,7 +6,7 @@ category: life
 tags: life
 
 ---
-
+简介：风和日丽，结伴同行，逛宜家。
 2017年5月30日，微风，大太阳的夏天
 
 <!-- add content here -->

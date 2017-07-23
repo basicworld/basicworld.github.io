@@ -8,6 +8,8 @@ tags: book
 description: 恐龙介绍
 ---
 
+简介：这篇介绍恐龙。
+
 <!-- add content here -->
 
 ![](http://cdn.wlfei.com/pics/00_CeratopsiaI_BW.jpg)

@@ -8,7 +8,7 @@ tags:
   - python
   - spss
 ---
-
+简介：简单的爬虫、聚类，分析人民大学交易论坛的数据。
 ![](http://odhzhpju9.bkt.clouddn.com/data_analysis_using_padas_spss.001.jpeg)
 
 
